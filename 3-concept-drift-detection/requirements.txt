@@ -1,0 +1,7 @@
+numpy==1.19.5
+alibi-detect==0.6.1
+flake8==3.9.1
+plotly==4.14.3
+jupyter==1.0.0
+notebook==6.3.0
+pandas==1.2.4
